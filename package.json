@@ -1,11 +1,11 @@
 {
   "name": "gulp-html2js",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "Gulp plugin for converting AngularJS templates to JavaScript",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/fraserxu/gulp-html2js.git"
+    "url": "git://github.com/shawn213/gulp-html2js.git"
   },
   "keywords": [
     "gulpplugin"
@@ -13,7 +13,7 @@
   "author": "fraserxu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fraserxu/gulp-html2js/issues"
+    "url": "https://github.com/shawn213/gulp-html2js/issues"
   },
   "devDependencies": {
     "gulp": "^3.6.0",
