@@ -56,6 +56,7 @@ gulp.task('default', function () {
 * target (coffee support to be added)
 * useStrict - default to false
 * name - module name
+* templateNameType - template name type default to "file" (basename, filename)
 
 ## LICENSE
 
